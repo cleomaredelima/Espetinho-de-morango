@@ -13,7 +13,10 @@ body {
     align-items: center;
   
 }
-
+.youtube-icon {
+    width: 1000px; /* Ajuste o tamanho conforme necessário */
+    height: 1000px; /* Ajuste o tamanho conforme necessário */
+}
 header {
     background-color: #ff5cce;
     color: #030303;
